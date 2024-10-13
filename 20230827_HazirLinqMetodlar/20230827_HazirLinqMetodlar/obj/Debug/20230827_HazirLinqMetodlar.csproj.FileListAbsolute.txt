@@ -1,0 +1,8 @@
+C:\Users\pcc\source\repos\20230827_HazirLinqMetodlar\20230827_HazirLinqMetodlar\bin\Debug\20230827_HazirLinqMetodlar.exe.config
+C:\Users\pcc\source\repos\20230827_HazirLinqMetodlar\20230827_HazirLinqMetodlar\bin\Debug\20230827_HazirLinqMetodlar.exe
+C:\Users\pcc\source\repos\20230827_HazirLinqMetodlar\20230827_HazirLinqMetodlar\bin\Debug\20230827_HazirLinqMetodlar.pdb
+C:\Users\pcc\source\repos\20230827_HazirLinqMetodlar\20230827_HazirLinqMetodlar\obj\Debug\20230827_HazirLinqMetodlar.csproj.AssemblyReference.cache
+C:\Users\pcc\source\repos\20230827_HazirLinqMetodlar\20230827_HazirLinqMetodlar\obj\Debug\20230827_HazirLinqMetodlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\pcc\source\repos\20230827_HazirLinqMetodlar\20230827_HazirLinqMetodlar\obj\Debug\20230827_HazirLinqMetodlar.csproj.CoreCompileInputs.cache
+C:\Users\pcc\source\repos\20230827_HazirLinqMetodlar\20230827_HazirLinqMetodlar\obj\Debug\20230827_HazirLinqMetodlar.exe
+C:\Users\pcc\source\repos\20230827_HazirLinqMetodlar\20230827_HazirLinqMetodlar\obj\Debug\20230827_HazirLinqMetodlar.pdb
